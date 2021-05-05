@@ -1,4 +1,4 @@
-# Amir-Data-Science
+# AmirDataScience
 
 ## Editing the file
 
